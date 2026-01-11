@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38463931904",
+    "project_id": "hedef-fiyat-app",
+    "storage_bucket": "hedef-fiyat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38463931904:android:808b05b43fff2f6408fae5",
+        "android_client_info": {
+          "package_name": "com.example.borsa_projesi_son"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHSvcM_NWXVF57RTJq0zOvhhkwWGXmzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
